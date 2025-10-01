@@ -1,4 +1,4 @@
-<h2 align="left">Hello ! My name is Ahmed and I'm a Machine Learning Engineer, from Egypt</h2>
+<h2 align="left">Hello! My name is Ahmed and I'm a Machine Learning Engineer, from Egypt</h2>
 
 ###
 
